@@ -12,4 +12,4 @@ make all
 
 ./sniffer or ./sniffer -p pathofdirectory
 
-User give input at runtime when using program ./sniffer 
+User give pat of directory as input at runtime when using program ./sniffer 
